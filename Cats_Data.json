@@ -1,0 +1,22 @@
+[
+{
+	Name: "Kitty",
+	Age: 13,
+	Nickname: "Princess",
+	Breed: "American Short Hair",
+}
+,
+{
+	Name: "Wit",
+	Age: 4,
+	Nickname: "Stain",
+	Breed: "Maine Coon",
+}
+,
+{
+	Name: "Wheeze",
+	Age: 2,
+	Nickname: "Stain",
+	Breed: "American Long Hair",
+}
+]

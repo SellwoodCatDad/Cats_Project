@@ -3,7 +3,7 @@
 	"Name": "Kitty",
 	"Age": 13,
 	"Nickname": "Princess",
-	"Breed": "American Short Hair"
+	"Breed": "American Short Hair",
 	"Image": "https://sellwoodcatdad.github.io/pics/Kitty.jpg"
 }
 ,
@@ -11,7 +11,7 @@
 	"Name": "Wit",
 	"Age": 4,
 	"Nickname": "Stain",
-	"Breed": "Maine Coon"
+	"Breed": "Maine Coon",
 	"Image": "https://sellwoodcatdad.github.io/pics/Wit.jpg"
 }
 ,
@@ -19,7 +19,7 @@
 	"Name": "Wheeze",
 	"Age": 2,
 	"Nickname": "Bug",
-	"Breed": "American Long Hair"
+	"Breed": "American Long Hair",
 	"Image": "https://sellwoodcatdad.github.io/pics/Wheeze.jpg"
 }
 ]

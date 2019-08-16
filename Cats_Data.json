@@ -4,7 +4,7 @@
 	"Age": 13,
 	"Nickname": "Princess",
 	"Breed": "American Short Hair",
-	"Image": "https://https://github.com/SellwoodCatDad/Cats_Project/blob/master/Pics/Kitty.jpg"
+	"Image": "http://github.com/SellwoodCatDad/Cats_Project/blob/master/Pics/Kitty.jpg"
 }
 ,
 {
@@ -12,7 +12,7 @@
 	"Age": 4,
 	"Nickname": "Stain",
 	"Breed": "Maine Coon",
-	"Image": "https://github.com/SellwoodCatDad/Cats_Project/blob/master/Pics/Wit.jpg"
+	"Image": "http://github.com/SellwoodCatDad/Cats_Project/blob/master/Pics/Wit.jpg"
 }
 ,
 {
@@ -20,6 +20,6 @@
 	"Age": 2,
 	"Nickname": "Bug",
 	"Breed": "American Long Hair",
-	"Image": "https://github.com/SellwoodCatDad/Cats_Project/blob/master/Pics/Wheeze.jpg"
+	"Image": "http://github.com/SellwoodCatDad/Cats_Project/blob/master/Pics/Wheeze.jpg"
 }
 ]

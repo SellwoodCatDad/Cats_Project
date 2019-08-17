@@ -4,7 +4,7 @@
 	"Age": 13,
 	"Nickname": "Princess",
 	"Breed": "American Short Hair",
-	"Image": "https://d17fnq9dkz9hgj.cloudfront.net/uploads/2012/11/101438745-cat-conjunctivitis-causes.jpg"
+	"Image": "https://raw.githubusercontent.com/SellwoodCatDad/Cats_Project/master/Pics/Kitty.jpg"
 }
 ,
 {
@@ -12,7 +12,7 @@
 	"Age": 4,
 	"Nickname": "Stain",
 	"Breed": "Maine Coon",
-	"Image": "http://github.com/SellwoodCatDad/Cats_Project/blob/master/Pics/Wit.jpg"
+	"Image": "https://raw.githubusercontent.com/SellwoodCatDad/Cats_Project/master/Pics/Wit.jpg"
 }
 ,
 {
@@ -20,6 +20,6 @@
 	"Age": 2,
 	"Nickname": "Bug",
 	"Breed": "American Long Hair",
-	"Image": "http://github.com/SellwoodCatDad/Cats_Project/blob/master/Pics/Wheeze.jpg"
+	"Image": "https://raw.githubusercontent.com/SellwoodCatDad/Cats_Project/master/Pics/Wheeze.jpg"
 }
 ]
